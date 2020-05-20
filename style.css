@@ -1,0 +1,70 @@
+body{
+	font-family: "Segoe UI",Arial,sans-serif;
+}
+.w3-teal{
+    background: #009688!important;
+    padding: 8px;
+    color: white;
+}
+.w3-card-4{
+box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+padding:20px;
+}
+.w3-half{
+	width:48%;
+	float:left;
+	margin:10px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+input{
+	width:97%;padding:10px;
+}
+.w3-button{
+	padding:12px !important;
+}
+table tr td{
+	padding:10px;
+	border-bottom: 1px solid #eee;
+}
+table tr th{
+	padding:10px;
+	border-bottom: 1px solid #eee;
+}
+.w3-modal-content{
+	top: 35%;
+    max-width: 600px;
+    /* display: none; */
+    position: absolute;
+    left: 25%;
+    /* top: -12%; */
+    width: 5;
+    width: 47%;
+    z-index: 999;
+    background: #fff;
+}
+select{
+	margin:10px;
+	padding:10px;
+	width:100%;
+}
+.w3-sidebar{
+	width: 25%;
+    height: 500vh;
+    position: absolute;
+box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+
+}
+.w3-large{
+
+padding: 10px;
+    background: #fff;
+    border: none
+}
+a{
+	text-decoration: none;
+}
+
